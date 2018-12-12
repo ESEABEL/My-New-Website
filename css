@@ -1,0 +1,45 @@
+.center-logo{
+  padding-top: 150px;
+
+}
+
+input{  
+    margin-top: 10px;
+    width: 600px;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 25px;
+} 
+.mic {
+   position: absolute;
+   width:auto; 
+   height: 28px;
+   margin-top:20px;
+   margin-left:-35px;
+}
+.button{
+   font-family: arial;
+   margin-top:  20px;
+   border:none;
+   height:30px;
+   font-size: 16px;
+   text-decoration:  none;
+   color: rgb(102,206,119);
+   background: rgb(242,242,242);
+   padding:10px 10px 10px 10px;
+}
+
+button:hover{
+  background-color:red;
+  color:white;
+  text-shadow: rgb(242,242,242);
+} 
+footer{
+    margin-top: 185;
+    text-align:center;
+    background-color: rgb(242,242,242);
+    height: 40px;
+}
+footer p{
+   color: rgb(102,106,119);
+   
